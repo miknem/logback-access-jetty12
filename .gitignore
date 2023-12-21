@@ -1,0 +1,15 @@
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/codeStyles/Project.xml
+/.idea/.gitignore
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/vcs.xml
+/target/classes/ch/qos/logback/access/jetty/Jetty12RequestLogImpl$State.class
+/target/classes/ch/qos/logback/access/jetty/Jetty12RequestLogImpl.class
+/target/classes/ch/qos/logback/access/jetty/Jetty12ServerAdapter.class
+/target/classes/ch/qos/logback/access/spi/Jetty12AccessEvent.class
+/target/maven-archiver/pom.properties
+/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/target/logback-access-jetty12-1.0.0.jar
